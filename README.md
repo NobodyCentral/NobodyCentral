@@ -6,9 +6,7 @@
     <h1 align='center'>
         HARDWARE
     </h1>
-
     <br />
-
     <img src="https://img.shields.io/badge/Windows%2011-darkblue?style=flat-square" />
     <img src="https://img.shields.io/badge/Arch-darkblue?style=flat-square&logo=archlinux" />
     <img src="https://img.shields.io/badge/CPU%20-%20Ryzen%209%205900X-red?style=flat-square&logo=amd" />
