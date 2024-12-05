@@ -29,5 +29,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=NobodyCentral&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br>
 [![](https://visitcount.itsvg.in/api?id=NobodyCentral&icon=2&color=3)](https://visitcount.itsvg.in)
 <br><br>
-
+---
 ![Banner](https://github.com/NobodyCentral/NobodyCentral/blob/main/profile.gif?raw=true)
